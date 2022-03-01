@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3544,
-    "timeDay": 6984,
-    "timeWeek": 3544,
-    "timeMonth": 3544,
-    "timeYear": 3544,
+    "time": 3109,
+    "timeDay": 2440,
+    "timeWeek": 3109,
+    "timeMonth": 3109,
+    "timeYear": 3109,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2183,
-    "timeDay": 1660,
-    "timeWeek": 2183,
-    "timeMonth": 2183,
-    "timeYear": 2183,
+    "time": 2991,
+    "timeDay": 6016,
+    "timeWeek": 2991,
+    "timeMonth": 2991,
+    "timeYear": 2991,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1854,
-    "timeDay": 2008,
-    "timeWeek": 1854,
-    "timeMonth": 1854,
-    "timeYear": 1854,
+    "time": 1922,
+    "timeDay": 2054,
+    "timeWeek": 1922,
+    "timeMonth": 1922,
+    "timeYear": 1922,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://favicons.githubusercontent.com/pablofurchi.com",
     "slug": "pablo-furchi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3894,
-    "timeDay": 3973,
-    "timeWeek": 3894,
-    "timeMonth": 3894,
-    "timeYear": 3894,
-    "dailyMinutesDown": {}
+    "time": 3275,
+    "timeDay": 783,
+    "timeWeek": 3275,
+    "timeMonth": 3275,
+    "timeYear": 3275,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   }
 ]
