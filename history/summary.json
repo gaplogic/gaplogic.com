@@ -58,19 +58,19 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://favicons.githubusercontent.com/pablofurchi.com",
     "slug": "pablo-furchi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2921,
-    "timeDay": 2037,
-    "timeWeek": 2921,
-    "timeMonth": 2921,
-    "timeYear": 2921,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2636,
+    "timeDay": 1572,
+    "timeWeek": 2636,
+    "timeMonth": 2636,
+    "timeYear": 2636,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 9
     }
   }
 ]
