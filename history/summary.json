@@ -22,9 +22,9 @@
     "url": "https://www.facturasgratis.ml",
     "icon": "https://favicons.githubusercontent.com/www.facturasgratis.ml",
     "slug": "facturasgratis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2202,
     "timeMonth": 2214,
     "timeYear": 2214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   },
   {
     "name": "La Casa Agency",
@@ -59,13 +61,13 @@
     "icon": "https://favicons.githubusercontent.com/pablofurchi.com",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 3165,
-    "timeDay": 3833,
+    "timeDay": 3881,
     "timeWeek": 2970,
     "timeMonth": 3165,
     "timeYear": 3165,
