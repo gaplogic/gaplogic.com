@@ -4,9 +4,9 @@
     "url": "https://www.gaplogic.com",
     "icon": "https://favicons.githubusercontent.com/www.gaplogic.com",
     "slug": "gaplogic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1897,
     "timeMonth": 2320,
     "timeYear": 2320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Facturasgratis",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.facturasgratis.ml",
     "slug": "facturasgratis",
     "status": "up",
-    "uptime": "93.36%",
-    "uptimeDay": "66.60%",
+    "uptime": "93.47%",
+    "uptimeDay": "85.96%",
     "uptimeWeek": "89.32%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "93.36%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "93.47%",
     "time": 2442,
     "timeDay": 3694,
     "timeWeek": 2204,
