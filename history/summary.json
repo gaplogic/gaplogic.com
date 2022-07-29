@@ -54,9 +54,9 @@
     "url": "https://www.lacasa.net/",
     "icon": "https://favicons.githubusercontent.com/www.lacasa.net",
     "slug": "la-casa-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,7 +65,9 @@
     "timeWeek": 1942,
     "timeMonth": 1989,
     "timeYear": 1889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-29": 0
+    }
   },
   {
     "name": "Pablo Furchi",
