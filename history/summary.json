@@ -54,19 +54,19 @@
     "url": "https://www.lacasa.net/",
     "icon": "https://favicons.githubusercontent.com/www.lacasa.net",
     "slug": "la-casa-agency",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1889,
-    "timeDay": 1810,
-    "timeWeek": 1942,
-    "timeMonth": 1989,
-    "timeYear": 1889,
+    "time": 1890,
+    "timeDay": 1973,
+    "timeWeek": 1967,
+    "timeMonth": 1994,
+    "timeYear": 1890,
     "dailyMinutesDown": {
-      "2022-07-29": 0
+      "2022-07-29": 10
     }
   },
   {
