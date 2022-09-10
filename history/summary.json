@@ -13,7 +13,7 @@
     "time": 2261,
     "timeDay": 2506,
     "timeWeek": 1772,
-    "timeMonth": 2045,
+    "timeMonth": 2066,
     "timeYear": 2261,
     "dailyMinutesDown": {
       "2022-09-01": 51,
@@ -74,9 +74,9 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://favicons.githubusercontent.com/pablofurchi.com",
     "slug": "pablo-furchi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.67%",
@@ -86,6 +86,7 @@
     "timeMonth": 3565,
     "timeYear": 3330,
     "dailyMinutesDown": {
+      "2022-09-10": 0,
       "2022-08-31": 27,
       "2022-08-25": 20,
       "2022-08-24": 44,
