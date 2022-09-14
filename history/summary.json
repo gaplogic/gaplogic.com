@@ -34,18 +34,18 @@
     "icon": "https://favicons.githubusercontent.com/www.facturasgratis.ml",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "78.56%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.15%",
+    "uptimeDay": "40.05%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.15%",
     "time": 1778,
     "timeDay": 1292,
     "timeWeek": 2272,
     "timeMonth": 1924,
     "timeYear": 1778,
     "dailyMinutesDown": {
-      "2022-09-14": 309,
+      "2022-09-14": 863,
       "2022-07-19": 50,
       "2022-03-14": 88,
       "2022-03-13": 377,
@@ -58,9 +58,9 @@
     "url": "https://www.lacasa.net/",
     "icon": "https://favicons.githubusercontent.com/www.lacasa.net",
     "slug": "la-casa-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2328,
     "timeMonth": 2076,
     "timeYear": 1930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "Pablo Furchi",
