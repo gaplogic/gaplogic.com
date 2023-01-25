@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.92%",
     "time": 2070,
     "timeDay": 1357,
     "timeWeek": 1703,
     "timeMonth": 1598,
     "timeYear": 2070,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 19,
       "2022-09-14": 57,
       "2022-09-01": 51,
       "2022-08-01": 54,
@@ -106,9 +106,9 @@
     "url": "https://www.lacasa.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lacasa.net.ico",
     "slug": "la-casa-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,7 +117,9 @@
     "timeWeek": 2576,
     "timeMonth": 2483,
     "timeYear": 2118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Pablo Furchi",
