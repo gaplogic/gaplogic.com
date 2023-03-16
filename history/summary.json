@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "up",
-    "uptime": "87.28%",
+    "uptime": "87.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,9 +105,9 @@
     "url": "https://www.lacasa.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lacasa.net.ico",
     "slug": "la-casa-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -117,6 +117,7 @@
     "timeMonth": 2541,
     "timeYear": 2195,
     "dailyMinutesDown": {
+      "2023-03-16": 0,
       "2023-03-14": 17,
       "2023-01-25": 56
     }
@@ -135,7 +136,7 @@
     "time": 3383,
     "timeDay": 3685,
     "timeWeek": 3352,
-    "timeMonth": 3267,
+    "timeMonth": 3367,
     "timeYear": 3394,
     "dailyMinutesDown": {
       "2023-03-12": 23,
