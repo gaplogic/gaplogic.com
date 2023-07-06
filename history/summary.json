@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.79%",
-    "time": 2536,
-    "timeDay": 1416,
-    "timeWeek": 1576,
-    "timeMonth": 1648,
-    "timeYear": 2689,
+    "time": 2534,
+    "timeDay": 1285,
+    "timeWeek": 1569,
+    "timeMonth": 1643,
+    "timeYear": 2687,
     "dailyMinutesDown": {
       "2023-06-09": 44,
       "2023-05-25": 24,
@@ -31,8 +31,7 @@
       "2022-09-01": 51,
       "2022-08-01": 54,
       "2022-07-23": 30,
-      "2022-07-13": 23,
-      "2022-07-06": 34
+      "2022-07-13": 23
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "up",
-    "uptime": "90.13%",
+    "uptime": "90.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "86.92%",
     "time": 1640,
-    "timeDay": 555,
-    "timeWeek": 1215,
-    "timeMonth": 1763,
+    "timeDay": 1682,
+    "timeWeek": 1231,
+    "timeMonth": 1756,
     "timeYear": 1624,
     "dailyMinutesDown": {
       "2023-06-13": 104,
@@ -117,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2262,
-    "timeDay": 2343,
-    "timeWeek": 2472,
-    "timeMonth": 2465,
+    "timeDay": 2245,
+    "timeWeek": 2455,
+    "timeMonth": 2466,
     "timeYear": 2383,
     "dailyMinutesDown": {
       "2023-03-14": 17,
@@ -132,18 +131,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "85.93%",
+    "uptime": "85.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.07%",
-    "time": 3378,
-    "timeDay": 3685,
-    "timeWeek": 2426,
-    "timeMonth": 2438,
-    "timeYear": 3370,
+    "uptimeYear": "80.80%",
+    "time": 3358,
+    "timeDay": 3704,
+    "timeWeek": 2433,
+    "timeMonth": 2422,
+    "timeYear": 3369,
     "dailyMinutesDown": {
-      "2023-07-05": 103,
+      "2023-07-06": 105,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -243,8 +243,7 @@
       "2022-08-02": 32,
       "2022-08-01": 22,
       "2022-07-31": 18,
-      "2022-07-22": 18,
-      "2022-07-06": 40
+      "2022-07-22": 18
     }
   }
 ]
