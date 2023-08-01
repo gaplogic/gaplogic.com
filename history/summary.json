@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 2519,
-    "timeDay": 1634,
-    "timeWeek": 2388,
-    "timeMonth": 2028,
+    "timeDay": 2404,
+    "timeWeek": 2419,
+    "timeMonth": 2050,
     "timeYear": 2612,
     "dailyMinutesDown": {
       "2023-07-25": 16,
@@ -29,8 +29,7 @@
       "2023-03-01": 32,
       "2023-01-25": 105,
       "2022-09-14": 57,
-      "2022-09-01": 51,
-      "2022-08-01": 54
+      "2022-09-01": 51
     }
   },
   {
@@ -39,18 +38,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "88.47%",
+    "uptime": "88.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.28%",
-    "uptimeYear": "83.87%",
+    "uptimeMonth": "59.98%",
+    "uptimeYear": "83.60%",
     "time": 1629,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1362,
-    "timeYear": 1608,
+    "timeMonth": 1347,
+    "timeYear": 1607,
     "dailyMinutesDown": {
-      "2023-07-31": 77,
+      "2023-08-01": 84,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -126,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2298,
-    "timeDay": 2408,
-    "timeWeek": 2680,
-    "timeMonth": 2519,
-    "timeYear": 2422,
+    "time": 2299,
+    "timeDay": 2752,
+    "timeWeek": 2662,
+    "timeMonth": 2520,
+    "timeYear": 2423,
     "dailyMinutesDown": {
       "2023-03-14": 17,
       "2023-01-25": 56
@@ -142,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "81.64%",
+    "uptime": "81.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.96%",
-    "time": 3358,
-    "timeDay": 4087,
-    "timeWeek": 3345,
-    "timeMonth": 3184,
-    "timeYear": 3382,
+    "uptimeYear": "73.69%",
+    "time": 3354,
+    "timeDay": 1064,
+    "timeWeek": 2893,
+    "timeMonth": 3183,
+    "timeYear": 3375,
     "dailyMinutesDown": {
-      "2023-07-31": 77,
+      "2023-08-01": 84,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -276,8 +277,7 @@
       "2022-08-22": 18,
       "2022-08-18": 37,
       "2022-08-07": 15,
-      "2022-08-02": 32,
-      "2022-08-01": 22
+      "2022-08-02": 32
     }
   }
 ]
