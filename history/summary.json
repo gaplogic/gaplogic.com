@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 2480,
-    "timeDay": 1762,
-    "timeWeek": 2011,
-    "timeMonth": 2007,
-    "timeYear": 2565,
+    "timeDay": 2108,
+    "timeWeek": 2035,
+    "timeMonth": 2015,
+    "timeYear": 2564,
     "dailyMinutesDown": {
       "2023-07-25": 16,
       "2023-06-09": 44,
@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "77.46%",
+    "uptime": "77.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2023-10-13": 67,
+      "2023-10-14": 64,
+      "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -152,8 +153,7 @@
       "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
-      "2022-10-15": 1440,
-      "2022-10-14": 1440
+      "2022-10-15": 1440
     }
   },
   {
@@ -167,10 +167,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2395,
-    "timeDay": 2125,
-    "timeWeek": 2460,
-    "timeMonth": 2499,
+    "time": 2397,
+    "timeDay": 2638,
+    "timeWeek": 2491,
+    "timeMonth": 2506,
     "timeYear": 2485,
     "dailyMinutesDown": {
       "2023-08-09": 36,
@@ -184,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "71.47%",
+    "uptime": "71.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.76%",
-    "time": 3227,
-    "timeDay": 531,
-    "timeWeek": 1965,
-    "timeMonth": 1883,
-    "timeYear": 3207,
+    "uptimeYear": "53.48%",
+    "time": 3221,
+    "timeDay": 649,
+    "timeWeek": 1968,
+    "timeMonth": 1857,
+    "timeYear": 3199,
     "dailyMinutesDown": {
-      "2023-10-13": 67,
+      "2023-10-14": 64,
+      "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
@@ -380,8 +381,7 @@
       "2022-10-21": 97,
       "2022-10-20": 2,
       "2022-10-19": 16,
-      "2022-10-18": 78,
-      "2022-10-14": 43
+      "2022-10-18": 78
     }
   }
 ]
