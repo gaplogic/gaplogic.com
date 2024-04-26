@@ -6,9 +6,9 @@
     "slug": "gaplogic",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.93%",
     "time": 2732,
     "timeDay": 1793,
@@ -16,7 +16,6 @@
     "timeMonth": 2520,
     "timeYear": 2432,
     "dailyMinutesDown": {
-      "2024-04-25": 8,
       "2024-04-22": 20,
       "2024-04-15": 16,
       "2024-04-09": 36,
@@ -40,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "58.25%",
+    "uptime": "58.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.96%",
+    "uptimeYear": "22.95%",
     "time": 1608,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1496,
     "dailyMinutesDown": {
-      "2024-04-25": 1430,
+      "2024-04-26": 68,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -366,7 +366,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "38.25%",
+    "uptimeYear": "38.27%",
     "time": 3228,
     "timeDay": 4056,
     "timeWeek": 3132,
@@ -614,8 +614,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   }
 ]
