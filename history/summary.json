@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "54.98%",
+    "uptime": "54.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.09%",
+    "uptimeYear": "10.07%",
     "time": 1583,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2024-06-11": 1432,
+      "2024-06-12": 74,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -380,8 +381,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 166,
-      "2023-06-13": 104
+      "2023-07-19": 166
     }
   },
   {
@@ -412,17 +412,16 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "72.73%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "50.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "50.19%",
     "time": 3315,
     "timeDay": 4035,
     "timeWeek": 4104,
     "timeMonth": 3446,
     "timeYear": 3241,
     "dailyMinutesDown": {
-      "2024-06-11": 9,
       "2024-05-27": 36,
       "2024-05-13": 16,
       "2024-05-12": 16,
@@ -625,8 +624,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   }
 ]
