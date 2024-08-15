@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 2432,
-    "timeDay": 2204,
-    "timeWeek": 1932,
-    "timeMonth": 1916,
-    "timeYear": 2465,
+    "timeDay": 0,
+    "timeWeek": 1954,
+    "timeMonth": 1905,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2024-05-12": 54,
       "2024-05-09": 28,
@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "51.13%",
+    "uptime": "51.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -51,7 +51,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 78,
+      "2024-08-15": 74,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -414,8 +415,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   },
   {
@@ -430,9 +430,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2394,
-    "timeDay": 2396,
-    "timeWeek": 2241,
-    "timeMonth": 2169,
+    "timeDay": 0,
+    "timeWeek": 2272,
+    "timeMonth": 2161,
     "timeYear": 2361,
     "dailyMinutesDown": {
       "2024-04-30": 16
@@ -444,16 +444,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "74.62%",
+    "uptime": "74.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "67.41%",
+    "uptimeYear": "67.69%",
     "time": 3373,
-    "timeDay": 2511,
-    "timeWeek": 3229,
-    "timeMonth": 3543,
-    "timeYear": 3420,
+    "timeDay": 0,
+    "timeWeek": 3313,
+    "timeMonth": 3530,
+    "timeYear": 3419,
     "dailyMinutesDown": {
       "2024-08-12": 38,
       "2024-08-08": 18,
@@ -603,8 +603,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   }
 ]
