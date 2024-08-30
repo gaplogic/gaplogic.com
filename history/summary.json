@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2432,
-    "timeDay": 2144,
-    "timeWeek": 2147,
-    "timeMonth": 2004,
-    "timeYear": 2471,
+    "time": 2431,
+    "timeDay": 1895,
+    "timeWeek": 2132,
+    "timeMonth": 2006,
+    "timeYear": 2474,
     "dailyMinutesDown": {
       "2024-05-12": 54,
       "2024-05-09": 28,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "50.27%",
+    "uptime": "50.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1500,
+    "time": 1494,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-29": 702,
+      "2024-08-30": 81,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -414,8 +415,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
@@ -429,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2387,
-    "timeDay": 2281,
-    "timeWeek": 2195,
-    "timeMonth": 2209,
-    "timeYear": 2352,
+    "time": 2385,
+    "timeDay": 2149,
+    "timeWeek": 2174,
+    "timeMonth": 2213,
+    "timeYear": 2350,
     "dailyMinutesDown": {
       "2024-04-30": 16
     }
@@ -444,18 +444,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "75.04%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "71.63%",
+    "uptime": "75.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "71.78%",
     "time": 3370,
-    "timeDay": 3952,
-    "timeWeek": 3723,
-    "timeMonth": 3462,
-    "timeYear": 3416,
+    "timeDay": 3860,
+    "timeWeek": 3708,
+    "timeMonth": 3458,
+    "timeYear": 3422,
     "dailyMinutesDown": {
-      "2024-08-29": 8,
       "2024-08-28": 34,
       "2024-08-23": 17,
       "2024-08-22": 18,
@@ -592,8 +591,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   }
 ]
