@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2422,
-    "timeDay": 1702,
-    "timeWeek": 1994,
-    "timeMonth": 2157,
-    "timeYear": 2499,
+    "time": 2420,
+    "timeDay": 1824,
+    "timeWeek": 1976,
+    "timeMonth": 2153,
+    "timeYear": 2498,
     "dailyMinutesDown": {
       "2024-05-12": 54,
       "2024-05-09": 28,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "49.33%",
+    "uptime": "49.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1556,
+    "time": 1573,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 1170,
+      "2024-09-16": 87,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -414,8 +415,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -429,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2374,
-    "timeDay": 2014,
-    "timeWeek": 2097,
-    "timeMonth": 2158,
-    "timeYear": 2334,
+    "time": 2372,
+    "timeDay": 1824,
+    "timeWeek": 2063,
+    "timeMonth": 2150,
+    "timeYear": 2331,
     "dailyMinutesDown": {
       "2024-04-30": 16
     }
@@ -444,18 +444,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "75.50%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "76.37%",
-    "time": 3382,
-    "timeDay": 3981,
-    "timeWeek": 3387,
-    "timeMonth": 3349,
-    "timeYear": 3452,
+    "uptime": "75.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "76.44%",
+    "time": 3383,
+    "timeDay": 3917,
+    "timeWeek": 3393,
+    "timeMonth": 3348,
+    "timeYear": 3458,
     "dailyMinutesDown": {
-      "2024-09-15": 8,
       "2024-09-08": 15,
       "2024-09-07": 15,
       "2024-08-28": 34,
@@ -577,8 +576,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   }
 ]
