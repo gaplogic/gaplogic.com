@@ -10,10 +10,10 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.84%",
-    "time": 2475,
-    "timeDay": 2461,
-    "timeWeek": 2288,
-    "timeMonth": 3208,
+    "time": 2476,
+    "timeDay": 2026,
+    "timeWeek": 2247,
+    "timeMonth": 3207,
     "timeYear": 2587,
     "dailyMinutesDown": {
       "2024-10-31": 28,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "46.82%",
+    "uptime": "46.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1340,
+    "time": 1320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 1370,
+      "2024-11-05": 85,
+      "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -424,8 +425,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   },
   {
@@ -439,11 +439,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2341,
-    "timeDay": 2493,
-    "timeWeek": 2184,
-    "timeMonth": 2176,
-    "timeYear": 2283,
+    "time": 2340,
+    "timeDay": 2003,
+    "timeWeek": 2131,
+    "timeMonth": 2173,
+    "timeYear": 2281,
     "dailyMinutesDown": {
       "2024-04-30": 16
     }
@@ -455,17 +455,16 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "76.75%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "90.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "90.08%",
     "time": 3429,
-    "timeDay": 4055,
-    "timeWeek": 3667,
-    "timeMonth": 4082,
+    "timeDay": 4005,
+    "timeWeek": 3669,
+    "timeMonth": 4086,
     "timeYear": 3614,
     "dailyMinutesDown": {
-      "2024-11-04": 9,
       "2024-11-01": 30,
       "2024-10-28": 30,
       "2024-10-26": 24,
@@ -547,8 +546,7 @@
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
-      "2023-11-07": 1440,
-      "2023-11-06": 1440
+      "2023-11-07": 1440
     }
   }
 ]
