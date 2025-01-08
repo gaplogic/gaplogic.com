@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 2511,
-    "timeDay": 1900,
-    "timeWeek": 2114,
-    "timeMonth": 2173,
-    "timeYear": 2527,
+    "timeDay": 2395,
+    "timeWeek": 2144,
+    "timeMonth": 2189,
+    "timeYear": 2528,
     "dailyMinutesDown": {
       "2024-11-29": 33,
       "2024-11-16": 22,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "43.99%",
+    "uptime": "43.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 87,
+      "2025-01-08": 87,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -426,8 +427,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   },
   {
@@ -441,11 +441,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2311,
-    "timeDay": 2101,
-    "timeWeek": 2260,
-    "timeMonth": 2274,
-    "timeYear": 2229,
+    "time": 2310,
+    "timeDay": 2440,
+    "timeWeek": 2336,
+    "timeMonth": 2291,
+    "timeYear": 2230,
     "dailyMinutesDown": {
       "2024-04-30": 16
     }
@@ -456,18 +456,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "72.55%",
+    "uptime": "72.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.68%",
-    "time": 3256,
-    "timeDay": 666,
-    "timeWeek": 693,
-    "timeMonth": 732,
-    "timeYear": 3273,
+    "uptimeYear": "83.41%",
+    "time": 3251,
+    "timeDay": 852,
+    "timeWeek": 737,
+    "timeMonth": 735,
+    "timeYear": 3272,
     "dailyMinutesDown": {
-      "2025-01-07": 87,
+      "2025-01-08": 87,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -572,8 +573,7 @@
       "2024-02-08": 17,
       "2024-02-07": 15,
       "2024-01-22": 16,
-      "2024-01-20": 17,
-      "2024-01-09": 18
+      "2024-01-20": 17
     }
   }
 ]
