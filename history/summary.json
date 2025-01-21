@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 2513,
-    "timeDay": 1595,
-    "timeWeek": 1892,
-    "timeMonth": 2087,
-    "timeYear": 2526,
+    "time": 2512,
+    "timeDay": 1620,
+    "timeWeek": 1861,
+    "timeMonth": 2062,
+    "timeYear": 2525,
     "dailyMinutesDown": {
       "2024-11-29": 33,
       "2024-11-16": 22,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "43.45%",
+    "uptime": "43.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 86,
+      "2025-01-21": 84,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -426,8 +427,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-23": 1440
     }
   },
   {
@@ -441,10 +441,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2305,
-    "timeDay": 2118,
-    "timeWeek": 2319,
-    "timeMonth": 2279,
+    "time": 2304,
+    "timeDay": 2508,
+    "timeWeek": 2379,
+    "timeMonth": 2284,
     "timeYear": 2222,
     "dailyMinutesDown": {
       "2024-04-30": 16
@@ -456,18 +456,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "71.65%",
+    "uptime": "71.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.12%",
-    "time": 3240,
-    "timeDay": 770,
-    "timeWeek": 771,
-    "timeMonth": 727,
-    "timeYear": 3197,
+    "uptimeYear": "79.85%",
+    "time": 3235,
+    "timeDay": 942,
+    "timeWeek": 778,
+    "timeMonth": 732,
+    "timeYear": 3188,
     "dailyMinutesDown": {
-      "2025-01-20": 86,
+      "2025-01-21": 84,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -583,8 +584,7 @@
       "2024-02-24": 20,
       "2024-02-14": 16,
       "2024-02-08": 17,
-      "2024-02-07": 15,
-      "2024-01-22": 16
+      "2024-02-07": 15
     }
   }
 ]
