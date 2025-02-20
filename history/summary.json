@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 2469,
-    "timeDay": 2062,
-    "timeWeek": 1943,
-    "timeMonth": 1742,
-    "timeYear": 2466,
+    "time": 2468,
+    "timeDay": 1515,
+    "timeWeek": 1867,
+    "timeMonth": 1739,
+    "timeYear": 2463,
     "dailyMinutesDown": {
       "2024-11-29": 33,
       "2024-11-16": 22,
@@ -41,8 +41,7 @@
       "2024-04-03": 18,
       "2024-04-01": 17,
       "2024-03-30": 49,
-      "2024-03-20": 25,
-      "2024-02-21": 18
+      "2024-03-20": 25
     }
   },
   {
@@ -51,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "42.26%",
+    "uptime": "42.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-19": 87,
+      "2025-02-20": 87,
+      "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -425,8 +425,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
@@ -440,11 +439,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2294,
-    "timeDay": 2713,
-    "timeWeek": 2409,
-    "timeMonth": 2333,
-    "timeYear": 2208,
+    "time": 2293,
+    "timeDay": 2374,
+    "timeWeek": 2363,
+    "timeMonth": 2341,
+    "timeYear": 2205,
     "dailyMinutesDown": {
       "2024-04-30": 16
     }
@@ -455,18 +454,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "69.68%",
+    "uptime": "69.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.92%",
-    "time": 3148,
-    "timeDay": 849,
-    "timeWeek": 778,
-    "timeMonth": 772,
-    "timeYear": 3058,
+    "uptimeYear": "71.64%",
+    "time": 3143,
+    "timeDay": 663,
+    "timeWeek": 731,
+    "timeMonth": 769,
+    "timeYear": 3051,
     "dailyMinutesDown": {
-      "2025-02-19": 87,
+      "2025-02-20": 87,
+      "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
