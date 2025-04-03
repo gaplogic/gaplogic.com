@@ -1,7 +1,7 @@
 url: https://www.lacasa.net/
-status: up
-code: 200
-responseTime: 2210
-lastUpdated: 2025-04-03T14:48:14.428Z
+status: down
+code: 500
+responseTime: 512
+lastUpdated: 2025-04-03T14:57:05.683Z
 startTime: 2022-02-25T19:06:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
