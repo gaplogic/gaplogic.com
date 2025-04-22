@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
-    "time": 2356,
-    "timeDay": 949,
-    "timeWeek": 967,
-    "timeMonth": 1550,
-    "timeYear": 2248,
+    "time": 2354,
+    "timeDay": 1026,
+    "timeWeek": 975,
+    "timeMonth": 1535,
+    "timeYear": 2246,
     "dailyMinutesDown": {
       "2025-03-26": 18,
       "2025-03-07": 42,
@@ -36,8 +36,7 @@
       "2024-05-07": 18,
       "2024-04-29": 127,
       "2024-04-28": 26,
-      "2024-04-26": 17,
-      "2024-04-22": 20
+      "2024-04-26": 17
     }
   },
   {
@@ -46,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "40.01%",
+    "uptime": "39.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-21": 108,
+      "2025-04-22": 104,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -420,8 +420,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   },
   {
@@ -436,10 +435,10 @@
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.89%",
     "time": 2253,
-    "timeDay": 2282,
-    "timeWeek": 2492,
-    "timeMonth": 2310,
-    "timeYear": 2199,
+    "timeDay": 2505,
+    "timeWeek": 2499,
+    "timeMonth": 2323,
+    "timeYear": 2201,
     "dailyMinutesDown": {
       "2025-04-09": 450,
       "2025-04-08": 77,
@@ -454,18 +453,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "65.99%",
+    "uptime": "65.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.27%",
-    "time": 2808,
-    "timeDay": 808,
-    "timeWeek": 678,
+    "uptimeYear": "54.99%",
+    "time": 2805,
+    "timeDay": 824,
+    "timeWeek": 719,
     "timeMonth": 741,
-    "timeYear": 2689,
+    "timeYear": 2680,
     "dailyMinutesDown": {
-      "2025-04-21": 108,
+      "2025-04-22": 104,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
