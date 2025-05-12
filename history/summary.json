@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 2317,
-    "timeDay": 1162,
-    "timeWeek": 1114,
-    "timeMonth": 1109,
-    "timeYear": 2090,
+    "timeDay": 1466,
+    "timeWeek": 1164,
+    "timeMonth": 1111,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2025-05-06": 30,
       "2025-03-26": 18,
@@ -31,8 +31,7 @@
       "2024-10-15": 29,
       "2024-10-14": 34,
       "2024-10-09": 64,
-      "2024-10-03": 24,
-      "2024-05-12": 54
+      "2024-10-03": 24
     }
   },
   {
@@ -41,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "39.33%",
+    "uptime": "39.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +51,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 113,
+      "2025-05-12": 111,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -415,8 +415,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
-      "2024-05-13": 1440,
-      "2024-05-12": 1440
+      "2024-05-13": 1440
     }
   },
   {
@@ -431,10 +430,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 2258,
-    "timeDay": 2751,
-    "timeWeek": 2644,
+    "timeDay": 2906,
+    "timeWeek": 2719,
     "timeMonth": 2592,
-    "timeYear": 2236,
+    "timeYear": 2239,
     "dailyMinutesDown": {
       "2025-04-09": 450,
       "2025-04-08": 77,
@@ -448,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "down",
-    "uptime": "64.86%",
+    "uptime": "64.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.80%",
-    "time": 2735,
-    "timeDay": 735,
-    "timeWeek": 718,
-    "timeMonth": 745,
-    "timeYear": 2488,
+    "uptimeYear": "49.53%",
+    "time": 2730,
+    "timeDay": 968,
+    "timeWeek": 787,
+    "timeMonth": 748,
+    "timeYear": 2477,
     "dailyMinutesDown": {
-      "2025-05-11": 113,
+      "2025-05-12": 111,
+      "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
@@ -671,8 +671,7 @@
       "2024-06-29": 21,
       "2024-06-18": 17,
       "2024-05-27": 36,
-      "2024-05-13": 16,
-      "2024-05-12": 16
+      "2024-05-13": 16
     }
   }
 ]
