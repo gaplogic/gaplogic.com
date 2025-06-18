@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2234,
-    "timeDay": 3138,
-    "timeWeek": 1911,
-    "timeMonth": 1410,
-    "timeYear": 1992,
+    "time": 2232,
+    "timeDay": 3125,
+    "timeWeek": 1907,
+    "timeMonth": 1397,
+    "timeYear": 1990,
     "dailyMinutesDown": {
       "2025-05-06": 30,
       "2025-03-26": 18,
@@ -40,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "38.11%",
+    "uptime": "38.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -51,7 +51,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 917,
+      "2025-06-18": 111,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -414,8 +415,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -430,10 +430,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 2268,
-    "timeDay": 2591,
-    "timeWeek": 2744,
-    "timeMonth": 2760,
-    "timeYear": 2304,
+    "timeDay": 2498,
+    "timeWeek": 2712,
+    "timeMonth": 2749,
+    "timeYear": 2305,
     "dailyMinutesDown": {
       "2025-06-01": 24,
       "2025-05-30": 24,
@@ -449,15 +449,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "63.74%",
+    "uptime": "63.75%",
     "uptimeDay": "96.48%",
     "uptimeWeek": "98.76%",
-    "uptimeMonth": "33.41%",
+    "uptimeMonth": "34.86%",
     "uptimeYear": "42.47%",
-    "time": 2646,
-    "timeDay": 3957,
-    "timeWeek": 4029,
-    "timeMonth": 2268,
+    "time": 2645,
+    "timeDay": 3870,
+    "timeWeek": 4018,
+    "timeMonth": 2346,
     "timeYear": 2334,
     "dailyMinutesDown": {
       "2025-06-17": 51,
@@ -699,8 +699,7 @@
       "2024-07-13": 16,
       "2024-07-09": 35,
       "2024-07-01": 25,
-      "2024-06-29": 21,
-      "2024-06-18": 17
+      "2024-06-29": 21
     }
   }
 ]
