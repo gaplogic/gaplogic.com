@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "93.74%",
+    "uptime": "93.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.43%",
+    "uptimeYear": "77.40%",
     "time": 1596,
     "timeDay": 127,
     "timeWeek": 132,
     "timeMonth": 152,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2025-10-25": 1410,
+      "2025-10-26": 109,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -116,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "34.40%",
+    "uptime": "34.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -127,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 1410,
+      "2025-10-26": 109,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -490,8 +492,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   },
   {
@@ -527,9 +528,9 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "84.21%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "42.33%",
     "time": 2631,
     "timeDay": 3959,
@@ -537,7 +538,7 @@
     "timeMonth": 3497,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2025-10-25": 36,
+      "2025-10-25": 26,
       "2025-10-24": 20,
       "2025-10-23": 18,
       "2025-10-15": 17,
@@ -791,8 +792,7 @@
       "2024-11-08": 18,
       "2024-11-05": 21,
       "2024-11-01": 30,
-      "2024-10-28": 30,
-      "2024-10-26": 24
+      "2024-10-28": 30
     }
   }
 ]
