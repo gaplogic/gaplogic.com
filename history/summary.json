@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "91.50%",
+    "uptime": "91.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.46%",
-    "time": 1462,
-    "timeDay": 146,
-    "timeWeek": 156,
-    "timeMonth": 146,
-    "timeYear": 1151,
+    "uptimeYear": "68.38%",
+    "time": 1459,
+    "timeDay": 327,
+    "timeWeek": 190,
+    "timeMonth": 151,
+    "timeYear": 1146,
     "dailyMinutesDown": {
-      "2025-11-27": 1117,
+      "2025-11-28": 107,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -155,7 +156,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1117,
+      "2025-11-28": 107,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -518,8 +520,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -533,11 +534,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.86%",
-    "time": 2640,
-    "timeDay": 2710,
-    "timeWeek": 2719,
-    "timeMonth": 2953,
-    "timeYear": 2773,
+    "time": 2642,
+    "timeDay": 2947,
+    "timeWeek": 2792,
+    "timeMonth": 2921,
+    "timeYear": 2774,
     "dailyMinutesDown": {
       "2025-11-05": 33,
       "2025-08-31": 70,
@@ -557,14 +558,14 @@
     "status": "up",
     "uptime": "84.58%",
     "uptimeDay": "97.46%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "47.21%",
-    "time": 2735,
-    "timeDay": 4002,
-    "timeWeek": 3425,
-    "timeMonth": 3588,
-    "timeYear": 2589,
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "47.30%",
+    "time": 2740,
+    "timeDay": 4052,
+    "timeWeek": 3573,
+    "timeMonth": 3585,
+    "timeYear": 2595,
     "dailyMinutesDown": {
       "2025-11-27": 37,
       "2025-11-26": 25,
@@ -818,8 +819,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
