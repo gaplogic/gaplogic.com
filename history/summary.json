@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "91.15%",
+    "uptime": "91.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.04%",
-    "time": 1437,
-    "timeDay": 158,
+    "uptimeYear": "67.01%",
+    "time": 1439,
+    "timeDay": 151,
     "timeWeek": 194,
     "timeMonth": 150,
-    "timeYear": 1120,
+    "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-12-02": 1398,
+      "2025-12-03": 111,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -148,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "33.45%",
+    "uptime": "33.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -159,7 +160,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1398,
+      "2025-12-03": 111,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -522,8 +524,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -538,10 +539,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.86%",
     "time": 2646,
-    "timeDay": 2759,
+    "timeDay": 3033,
     "timeWeek": 2737,
     "timeMonth": 2771,
-    "timeYear": 2778,
+    "timeYear": 2780,
     "dailyMinutesDown": {
       "2025-11-05": 33,
       "2025-08-31": 70,
@@ -560,17 +561,17 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "84.63%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "48.61%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "48.64%",
     "time": 2735,
-    "timeDay": 3516,
+    "timeDay": 3376,
     "timeWeek": 3778,
     "timeMonth": 3573,
-    "timeYear": 2640,
+    "timeYear": 2644,
     "dailyMinutesDown": {
-      "2025-12-02": 76,
+      "2025-12-02": 69,
       "2025-11-30": 23,
       "2025-11-29": 20,
       "2025-11-28": 16,
@@ -821,8 +822,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
