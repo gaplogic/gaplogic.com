@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "90.04%",
+    "uptime": "90.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.40%",
-    "time": 1376,
-    "timeDay": 74,
-    "timeWeek": 109,
-    "timeMonth": 157,
-    "timeYear": 1032,
+    "uptimeYear": "62.36%",
+    "time": 1372,
+    "timeDay": 168,
+    "timeWeek": 123,
+    "timeMonth": 159,
+    "timeYear": 1025,
     "dailyMinutesDown": {
-      "2025-12-19": 1313,
+      "2025-12-20": 108,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -176,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-19": 1313,
+      "2025-12-20": 108,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -539,8 +541,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -554,11 +555,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2697,
-    "timeDay": 2406,
-    "timeWeek": 5092,
-    "timeMonth": 3281,
-    "timeYear": 2848,
+    "time": 2698,
+    "timeDay": 2578,
+    "timeWeek": 5088,
+    "timeMonth": 3293,
+    "timeYear": 2847,
     "dailyMinutesDown": {
       "2025-11-05": 33,
       "2025-08-31": 70,
@@ -576,16 +577,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
     "status": "up",
-    "uptime": "84.81%",
+    "uptime": "84.82%",
     "uptimeDay": "94.22%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "53.19%",
-    "time": 2709,
-    "timeDay": 3353,
-    "timeWeek": 3416,
-    "timeMonth": 3567,
-    "timeYear": 2763,
+    "uptimeYear": "53.24%",
+    "time": 2710,
+    "timeDay": 3376,
+    "timeWeek": 3420,
+    "timeMonth": 3570,
+    "timeYear": 2769,
     "dailyMinutesDown": {
       "2025-12-19": 83,
       "2025-12-16": 86,
@@ -829,8 +830,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   }
 ]
