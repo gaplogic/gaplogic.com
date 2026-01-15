@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "88.34%",
+    "uptime": "88.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.04%",
+    "uptimeYear": "55.02%",
     "time": 1184,
     "timeDay": 169,
     "timeWeek": 151,
     "timeMonth": 143,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2026-01-15": 1131,
+      "2026-01-15": 1256,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-15": 1131,
+      "2026-01-15": 1257,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -602,14 +602,14 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.71%",
+    "uptimeDay": "96.70%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "99.42%",
     "time": 2796,
-    "timeDay": 2322,
+    "timeDay": 3313,
     "timeWeek": 3450,
     "timeMonth": 3468,
     "timeYear": 2930,
@@ -688,8 +688,7 @@
       "2025-09-17": 71,
       "2025-09-10": 32,
       "2025-09-09": 17,
-      "2025-09-07": 17,
-      "2025-09-05": 23
+      "2025-09-07": 17
     }
   }
 ]
