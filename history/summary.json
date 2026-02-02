@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "down",
-    "uptime": "87.28%",
+    "uptime": "87.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.33%",
+    "uptimeYear": "50.29%",
     "time": 1100,
     "timeDay": 144,
     "timeWeek": 153,
     "timeMonth": 154,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2026-02-01": 1414,
+      "2026-02-02": 153,
+      "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -209,7 +210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "32.03%",
+    "uptime": "32.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -220,7 +221,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-01": 1414,
+      "2026-02-02": 153,
+      "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -583,8 +585,7 @@
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
-      "2025-02-03": 1440,
-      "2025-02-02": 1440
+      "2025-02-03": 1440
     }
   },
   {
@@ -623,17 +624,17 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "99.40%",
     "time": 2922,
     "timeDay": 3470,
     "timeWeek": 4220,
     "timeMonth": 4141,
     "timeYear": 3107,
     "dailyMinutesDown": {
-      "2026-02-01": 43,
+      "2026-02-01": 34,
       "2026-01-31": 56,
       "2026-01-30": 91,
       "2026-01-28": 20,
@@ -702,7 +703,8 @@
       "2025-10-13": 21,
       "2025-10-12": 17,
       "2025-10-10": 58,
-      "2025-10-07": 26
+      "2025-10-07": 26,
+      "2025-10-06": 18
     }
   }
 ]
