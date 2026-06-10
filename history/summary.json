@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "24.81%",
-    "time": 662,
-    "timeDay": 2860,
-    "timeWeek": 1339,
-    "timeMonth": 882,
-    "timeYear": 402,
+    "time": 665,
+    "timeDay": 4132,
+    "timeWeek": 1688,
+    "timeMonth": 987,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -311,6 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-06-10": 13,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -674,8 +675,7 @@
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1440
+      "2025-06-11": 1440
     }
   },
   {
@@ -689,11 +689,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2952,
-    "timeDay": 3543,
-    "timeWeek": 2830,
-    "timeMonth": 3620,
-    "timeYear": 3113,
+    "time": 2954,
+    "timeDay": 2631,
+    "timeWeek": 2805,
+    "timeMonth": 3588,
+    "timeYear": 3112,
     "dailyMinutesDown": {
       "2025-08-31": 70,
       "2025-11-05": 33,
@@ -706,17 +706,17 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "72.39%",
-    "uptimeWeek": "81.78%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "71.50%",
+    "uptimeWeek": "81.65%",
+    "uptimeMonth": "91.36%",
     "uptimeYear": "97.54%",
     "time": 3030,
-    "timeDay": 530,
-    "timeWeek": 562,
+    "timeDay": 498,
+    "timeWeek": 564,
     "timeMonth": 662,
-    "timeYear": 3403,
+    "timeYear": 3399,
     "dailyMinutesDown": {
       "2026-01-15": 71,
       "2026-01-17": 98,
@@ -791,7 +791,8 @@
       "2026-06-06": 67,
       "2026-06-07": 181,
       "2026-06-08": 381,
-      "2026-06-09": 397
+      "2026-06-09": 397,
+      "2026-06-10": 13
     }
   }
 ]
