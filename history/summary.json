@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 770,
+      "2026-06-28": 869,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -706,17 +706,17 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "73.23%",
-    "uptimeMonth": "81.29%",
-    "uptimeYear": "96.71%",
+    "uptimeDay": "73.98%",
+    "uptimeWeek": "73.24%",
+    "uptimeMonth": "81.06%",
+    "uptimeYear": "96.69%",
     "time": 2778,
-    "timeDay": 530,
-    "timeWeek": 521,
-    "timeMonth": 548,
-    "timeYear": 3129,
+    "timeDay": 552,
+    "timeWeek": 529,
+    "timeMonth": 550,
+    "timeYear": 3126,
     "dailyMinutesDown": {
       "2026-02-07": 17,
       "2026-02-08": 34,
@@ -791,7 +791,7 @@
       "2026-06-25": 204,
       "2026-06-26": 526,
       "2026-06-27": 463,
-      "2026-06-28": 112
+      "2026-06-28": 211
     }
   }
 ]
