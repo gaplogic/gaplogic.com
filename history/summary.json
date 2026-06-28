@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "24.81%",
-    "time": 711,
-    "timeDay": 3018,
-    "timeWeek": 3408,
-    "timeMonth": 2291,
-    "timeYear": 477,
+    "time": 716,
+    "timeDay": 3474,
+    "timeWeek": 3474,
+    "timeMonth": 2399,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -311,7 +311,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 1424,
+      "2026-06-28": 1,
+      "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -674,8 +675,7 @@
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
-      "2025-06-29": 1440,
-      "2025-06-28": 1440
+      "2025-06-29": 1440
     }
   },
   {
@@ -689,10 +689,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2969,
-    "timeDay": 2610,
-    "timeWeek": 3067,
-    "timeMonth": 2772,
+    "time": 2971,
+    "timeDay": 2899,
+    "timeWeek": 3082,
+    "timeMonth": 2800,
     "timeYear": 3116,
     "dailyMinutesDown": {
       "2025-08-31": 70,
@@ -706,17 +706,17 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "67.84%",
+    "uptimeDay": "67.85%",
     "uptimeWeek": "74.08%",
-    "uptimeMonth": "81.58%",
+    "uptimeMonth": "81.54%",
     "uptimeYear": "96.70%",
     "time": 2778,
-    "timeDay": 516,
-    "timeWeek": 511,
+    "timeDay": 548,
+    "timeWeek": 522,
     "timeMonth": 550,
-    "timeYear": 3143,
+    "timeYear": 3140,
     "dailyMinutesDown": {
       "2026-02-07": 197,
       "2026-02-06": 0,
@@ -791,7 +791,8 @@
       "2026-06-23": 4,
       "2026-06-25": 204,
       "2026-06-26": 526,
-      "2026-06-27": 447
+      "2026-06-27": 463,
+      "2026-06-28": 1
     }
   }
 ]
