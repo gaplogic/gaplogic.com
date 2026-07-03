@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "24.81%",
-    "time": 733,
-    "timeDay": 3223,
-    "timeWeek": 3563,
-    "timeMonth": 2836,
-    "timeYear": 511,
+    "time": 739,
+    "timeDay": 3400,
+    "timeWeek": 3565,
+    "timeMonth": 2859,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -311,7 +311,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1313,
+      "2026-07-03": 4,
+      "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -674,8 +675,7 @@
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
-      "2025-07-04": 1440,
-      "2025-07-03": 1440
+      "2025-07-04": 1440
     }
   },
   {
@@ -689,10 +689,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2975,
-    "timeDay": 2981,
-    "timeWeek": 2812,
-    "timeMonth": 2797,
+    "time": 2976,
+    "timeDay": 2911,
+    "timeWeek": 2815,
+    "timeMonth": 2798,
     "timeYear": 3114,
     "dailyMinutesDown": {
       "2025-08-31": 70,
@@ -706,17 +706,17 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "70.05%",
-    "uptimeWeek": "73.26%",
-    "uptimeMonth": "80.06%",
-    "uptimeYear": "96.48%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "79.76%",
+    "uptimeYear": "96.45%",
     "time": 2773,
-    "timeDay": 543,
-    "timeWeek": 520,
-    "timeMonth": 539,
-    "timeYear": 3063,
+    "timeDay": 574,
+    "timeWeek": 531,
+    "timeMonth": 541,
+    "timeYear": 3060,
     "dailyMinutesDown": {
       "2026-02-21": 24,
       "2026-02-22": 19,
@@ -789,7 +789,8 @@
       "2026-06-29": 8,
       "2026-06-30": 419,
       "2026-07-01": 616,
-      "2026-07-02": 304
+      "2026-07-02": 431,
+      "2026-07-03": 4
     }
   }
 ]
