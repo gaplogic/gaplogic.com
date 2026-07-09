@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "up",
-    "uptime": "82.69%",
+    "uptime": "82.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 692,
+      "2026-07-09": 998,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -706,17 +706,17 @@
     "url": "http://pablofurchi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pablofurchi.com.ico",
     "slug": "pablo-furchi",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "81.41%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "80.10%",
-    "uptimeYear": "96.32%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "79.72%",
+    "uptimeYear": "96.26%",
     "time": 2762,
-    "timeDay": 519,
-    "timeWeek": 524,
-    "timeMonth": 527,
-    "timeYear": 2948,
+    "timeDay": 573,
+    "timeWeek": 532,
+    "timeMonth": 531,
+    "timeYear": 2946,
     "dailyMinutesDown": {
       "2026-03-13": 107,
       "2026-03-19": 15,
@@ -780,7 +780,7 @@
       "2026-07-05": 427,
       "2026-07-06": 454,
       "2026-07-07": 75,
-      "2026-07-09": 268
+      "2026-07-09": 574
     }
   }
 ]
