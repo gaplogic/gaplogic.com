@@ -13,7 +13,7 @@
     "time": 777,
     "timeDay": 3530,
     "timeWeek": 3261,
-    "timeMonth": 3348,
+    "timeMonth": 3361,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2026-05-06": 283,
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 6,
+      "2026-07-13": 199,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -692,7 +692,7 @@
     "time": 3000,
     "timeDay": 2745,
     "timeWeek": 2697,
-    "timeMonth": 3009,
+    "timeMonth": 3030,
     "timeYear": 3114,
     "dailyMinutesDown": {
       "2025-08-31": 70,
@@ -708,16 +708,17 @@
     "slug": "pablo-furchi",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "70.85%",
-    "uptimeWeek": "82.25%",
-    "uptimeMonth": "79.65%",
+    "uptimeDay": "85.13%",
+    "uptimeWeek": "83.02%",
+    "uptimeMonth": "79.68%",
     "uptimeYear": "96.19%",
     "time": 2758,
     "timeDay": 552,
-    "timeWeek": 545,
-    "timeMonth": 533,
+    "timeWeek": 542,
+    "timeMonth": 534,
     "timeYear": 2895,
     "dailyMinutesDown": {
+      "2026-03-31": 35,
       "2026-04-03": 114,
       "2026-04-05": 239,
       "2026-04-06": 96,
@@ -777,8 +778,7 @@
       "2026-07-09": 574,
       "2026-07-10": 201,
       "2026-07-11": 61,
-      "2026-07-12": 420,
-      "2026-07-13": 6
+      "2026-07-12": 413
     }
   }
 ]
