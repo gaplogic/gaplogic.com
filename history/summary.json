@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "up",
-    "uptime": "83.46%",
+    "uptime": "83.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.80%",
-    "time": 1087,
-    "timeDay": 3715,
-    "timeWeek": 5287,
+    "uptimeYear": "38.07%",
+    "time": 1091,
+    "timeDay": 3172,
+    "timeWeek": 5215,
     "timeMonth": 3841,
-    "timeYear": 1161,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -241,8 +241,7 @@
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
-      "2025-09-23": 1440,
-      "2025-09-22": 1440
+      "2025-09-23": 1440
     }
   },
   {
@@ -251,7 +250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "27.59%",
+    "uptime": "27.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -262,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-21": 242,
+      "2026-09-22": 239,
+      "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
@@ -625,8 +625,7 @@
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
-      "2025-09-23": 1440,
-      "2025-09-22": 1440
+      "2025-09-23": 1440
     }
   },
   {
@@ -641,10 +640,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3069,
-    "timeDay": 2934,
-    "timeWeek": 2738,
-    "timeMonth": 3072,
-    "timeYear": 3029,
+    "timeDay": 2595,
+    "timeWeek": 2676,
+    "timeMonth": 3065,
+    "timeYear": 3026,
     "dailyMinutesDown": {
       "2025-11-05": 33,
       "2026-01-16": 27,
@@ -662,11 +661,11 @@
     "uptimeWeek": "97.13%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "96.93%",
-    "time": 2630,
-    "timeDay": 572,
-    "timeWeek": 657,
-    "timeMonth": 741,
-    "timeYear": 2474,
+    "time": 2628,
+    "timeDay": 1517,
+    "timeWeek": 742,
+    "timeMonth": 763,
+    "timeYear": 2468,
     "dailyMinutesDown": {
       "2026-06-01": 345,
       "2026-06-02": 636,
