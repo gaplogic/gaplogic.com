@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
     "status": "up",
-    "uptime": "83.50%",
+    "uptime": "83.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.90%",
-    "time": 1106,
-    "timeDay": 3539,
-    "timeWeek": 3663,
-    "timeMonth": 3832,
-    "timeYear": 1199,
+    "uptimeYear": "39.17%",
+    "time": 1112,
+    "timeDay": 4477,
+    "timeWeek": 3679,
+    "timeMonth": 3863,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -237,8 +237,7 @@
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
-      "2025-09-27": 1440,
-      "2025-09-26": 1440
+      "2025-09-27": 1440
     }
   },
   {
@@ -247,7 +246,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "27.52%",
+    "uptime": "27.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -258,7 +257,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 245,
+      "2026-09-26": 250,
+      "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -621,8 +621,7 @@
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
-      "2025-09-27": 1440,
-      "2025-09-26": 1440
+      "2025-09-27": 1440
     }
   },
   {
@@ -636,11 +635,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3071,
-    "timeDay": 3012,
-    "timeWeek": 2802,
-    "timeMonth": 3081,
-    "timeYear": 3020,
+    "time": 3074,
+    "timeDay": 3979,
+    "timeWeek": 2996,
+    "timeMonth": 3119,
+    "timeYear": 3023,
     "dailyMinutesDown": {
       "2025-11-05": 33,
       "2026-01-16": 27,
@@ -658,11 +657,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "96.93%",
-    "time": 2623,
-    "timeDay": 814,
-    "timeWeek": 842,
+    "time": 2620,
+    "timeDay": 777,
+    "timeWeek": 848,
     "timeMonth": 776,
-    "timeYear": 2455,
+    "timeYear": 2448,
     "dailyMinutesDown": {
       "2026-06-01": 345,
       "2026-06-02": 636,
