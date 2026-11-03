@@ -4,17 +4,17 @@
     "url": "https://www.gaplogic.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.gaplogic.com.ico",
     "slug": "gaplogic",
-    "status": "down",
-    "uptime": "83.87%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
+    "status": "up",
+    "uptime": "83.86%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "49.58%",
-    "time": 1296,
-    "timeDay": 18018,
-    "timeWeek": 5285,
-    "timeMonth": 3837,
-    "timeYear": 1588,
+    "time": 1300,
+    "timeDay": 10580,
+    "timeWeek": 5017,
+    "timeMonth": 3815,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -200,7 +200,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2026-11-03": 116
+      "2026-11-03": 285
     }
   },
   {
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 351,
+      "2026-11-03": 521,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
