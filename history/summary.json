@@ -6,9 +6,9 @@
     "slug": "gaplogic",
     "status": "down",
     "uptime": "83.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "49.58%",
     "time": 1296,
     "timeDay": 18018,
@@ -200,7 +200,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2026-11-03": 0
+      "2026-11-03": 116
     }
   },
   {
@@ -209,7 +209,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "26.90%",
+    "uptime": "26.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 235,
+      "2026-11-03": 351,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
