@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "56.14%",
-    "time": 1395,
-    "timeDay": 2990,
-    "timeWeek": 3097,
-    "timeMonth": 3701,
-    "timeYear": 1796,
+    "uptimeYear": "56.41%",
+    "time": 1400,
+    "timeDay": 3696,
+    "timeWeek": 3166,
+    "timeMonth": 3713,
+    "timeYear": 1805,
     "dailyMinutesDown": {
       "2026-05-06": 283,
       "2026-05-05": 1440,
@@ -175,7 +175,6 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
       "2026-11-03": 285
     }
   },
@@ -185,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.facturasgratis.ml.ico",
     "slug": "facturasgratis",
     "status": "down",
-    "uptime": "26.52%",
+    "uptime": "26.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -196,7 +195,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-27": 445,
+      "2026-11-28": 416,
+      "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
@@ -559,8 +559,7 @@
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
-      "2025-11-29": 1440,
-      "2025-11-28": 1440
+      "2025-11-29": 1440
     }
   },
   {
@@ -574,10 +573,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3054,
-    "timeDay": 2983,
-    "timeWeek": 3196,
-    "timeMonth": 2859,
+    "time": 3053,
+    "timeDay": 3257,
+    "timeWeek": 3305,
+    "timeMonth": 2881,
     "timeYear": 2978,
     "dailyMinutesDown": {
       "2026-01-16": 27,
@@ -595,11 +594,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
-    "time": 2186,
-    "timeDay": 805,
-    "timeWeek": 723,
-    "timeMonth": 718,
-    "timeYear": 2046,
+    "time": 2182,
+    "timeDay": 701,
+    "timeWeek": 732,
+    "timeMonth": 713,
+    "timeYear": 2036,
     "dailyMinutesDown": {
       "2026-06-01": 345,
       "2026-06-02": 636,
